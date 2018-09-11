@@ -1,1 +1,1 @@
-Some solved exercises from different online judges .
+Some solved problems from different online judges .
