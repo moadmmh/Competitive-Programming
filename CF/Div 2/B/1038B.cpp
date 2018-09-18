@@ -35,7 +35,7 @@ int main() {
     int x=(n%2==0)?(n/2):((n+1)/2);
     cout<<"1 "<<x<<endl;
     cout<<n-1<<" ";
-    for(int i=1;i<=     n;++i){
+    for(int i=1;i<=n;++i){
         if(i==x)continue;
         cout<<i<<" ";
     }
