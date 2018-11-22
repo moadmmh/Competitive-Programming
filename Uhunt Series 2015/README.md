@@ -19,7 +19,7 @@
   |      A pile  of boxes     |                                                                                          |
   |       Good Teacher        | [12545.cpp](https://github.com/moadmmh/Competitive-Programming/blob/master/Uhunt%20Series%202015/Session-2/12545.cpp)|
   |    Spreadsheet Tracking   |                                                                                          |
-  |         Last Blood        |                                                                                          |
+  |         Last Blood        | [12545.cpp](https://github.com/moadmmh/Competitive-Programming/blob/master/Uhunt%20Series%202015/Session-2/12667.cpp)|
   |         Lawn Mower        |                                                                                          |
   |     Algorithm of Phil     |                                                                                          |
   |        Lock Manager       |                                                                                          |
