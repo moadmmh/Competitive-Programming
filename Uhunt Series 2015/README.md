@@ -18,9 +18,9 @@
   |:-------------------------:|:----------------------------------------------------------------------------------------:|
   |      A pile  of boxes     |                                                                                          |
   |       Good Teacher        | [12545.cpp](https://github.com/moadmmh/Competitive-Programming/blob/master/Uhunt%20Series%202015/Session-2/12545.cpp)|
-  |    Spreadsheet Tracking   | [12269.cpp](https://github.com/moadmmh/Competitive-Programming/blob/master/Uhunt%20Series%202015/Session-2/12269.cpp)                                                                                         |
+  |    Spreadsheet Tracking   |                                                                                          |
   |         Last Blood        | [12667.cpp](https://github.com/moadmmh/Competitive-Programming/blob/master/Uhunt%20Series%202015/Session-2/12667.cpp)|
-  |         Lawn Mower        |                                                                                          |
+  |         Lawn Mower        | [12269.cpp](https://github.com/moadmmh/Competitive-Programming/blob/master/Uhunt%20Series%202015/Session-2/12269.cpp)|
   |     Algorithm of Phil     |                                                                                          |
   |        Lock Manager       |                                                                                          |
   | Concatenation of languages|                                                                                          |
