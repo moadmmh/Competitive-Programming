@@ -23,6 +23,6 @@
   |         Lawn Mower        | [12269.cpp](https://github.com/moadmmh/Competitive-Programming/blob/master/Uhunt%20Series%202015/Session-2/12269.cpp)|
   |     Algorithm of Phil     |                                                                                          |
   |        Lock Manager       |                                                                                          |
-  | Concatenation of languages|                                                                                          |
+  | Concatenation of languages| [10887.cpp](https://github.com/moadmmh/Competitive-Programming/blob/master/Uhunt%20Series%202015/Session-2/10887.cpp)|
   |    Corporative Network    |                                                                                          |
   |       Cache Simulator     |                                                                                          |
