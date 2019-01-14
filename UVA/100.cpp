@@ -32,7 +32,7 @@ void counting(int n){
     else
         counting(n/2);
 }
-
+  
 int main() {
 
     //freopen("input.txt","r",stdin);
