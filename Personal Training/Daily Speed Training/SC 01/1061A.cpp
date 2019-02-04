@@ -35,3 +35,4 @@ int main()
         cout<<s/n +1<<endl;    
     return 0;
 }
+ 
