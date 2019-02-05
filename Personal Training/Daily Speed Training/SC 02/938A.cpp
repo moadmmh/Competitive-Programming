@@ -10,7 +10,7 @@ using namespace std;
 #define ll long long
 #define ull unsigned long long
 #define MAX 1e9
-#define mod 1000000000
+#define mod 1000000000 
 #define pi 3.1415926536
 #define ex 1e9
 #define dbl 1e09
