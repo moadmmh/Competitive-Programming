@@ -21,18 +21,18 @@ using namespace std;
 #define all(x) x.begin(), x.end()
 #define rall(x) x.rbegin(), x.rend()
 
-int gcd(int a, int b){ return b == 0 ? a : gcd(b, a % b); }
-ll lcm(int a, int b) { return a * (b / gcd(a, b)); }
+ll gcd(int a, int b){ return b == 0 ? a : gcd(b, a % b); }
+ll lcm(int a, int b) { return a *1LL* (b / gcd(a, b)); }
 
 int main()
 {
     //freopen("input.txt","r",stdin);
     int a, b;
     cin >> a >> b;
-    int x = lcm(a, b);
+    ll x = lcm(a, b);
     if (abs(x / a - x / b) == 1)
         return cout << "Equal" << endl, 0;
-    else if (x / a > x / b)
+    else if ((x / a) > (x / b))
         return cout << "Dasha" << endl, 0;
     cout << "Masha" << endl;
     return 0;
