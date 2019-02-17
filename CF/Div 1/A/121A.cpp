@@ -20,20 +20,48 @@ using namespace std;
 #define pb(x) push_back(x)
 #define all(x) x.begin(), x.end()
 #define rall(x) x.rbegin(), x.rend()
-
-int gcd(int a, int b){ return b == 0 ? a : gcd(b, a % b); }
-ll lcm(int a, int b) { return a * (b / gcd(a, b)); }
-
+vector<ll> v;
+ll strtoll(string s)
+{
+    ll res = 0;
+    for (int i = 0; i < sz(s); ++i)
+    {
+        res = res * 10 + (s[i] - '0');
+    }
+    return res;
+}
+void generate(string s)
+{
+    if (sz(s) == 11)
+        return;
+    if (s != "")
+    {
+        v.pb(strtoll(s));
+    }
+    generate(s + '4');
+    generate(s + '7');
+}
 int main()
 {
     //freopen("input.txt","r",stdin);
-    int a, b;
-    cin >> a >> b;
-    int x = lcm(a, b);
-    if (abs(x / a - x / b) == 1)
-        return cout << "Equal" << endl, 0;
-    else if (x / a > x / b)
-        return cout << "Dasha" << endl, 0;
-    cout << "Masha" << endl;
+    int l, r;
+    cin >> l >> r;
+    generate("");
+    sort(all(v));
+    ll ans = 0;
+    for (int i = 0; i < sz(v); ++i)
+    {
+        if (v[i] >= l and v[i] <= r)
+        {
+            ans += (v[i] - l + 1) * 1LL * v[i];
+            l = v[i] + 1;
+        }
+        else if (v[i] >= r)
+        {
+            ans += (r - l + 1) * 1LL * v[i];
+            break;
+        }
+    }
+    cout << ans << endl;
     return 0;
 }
