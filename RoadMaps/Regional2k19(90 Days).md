@@ -7,7 +7,7 @@ I will be updaing this page on daily basis with what I have achieved.
 | --- | --- | --- | --- | --- |
 |	Day 1	|	01 Jul (Mon)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>2-3 CF Div2 C Problems</li><li>Graphs CP Book</li></ul>	|	-	|	-	|
 |	Day 2	|	02 Jul (Tue)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>2-3 CF Div2 C Problems</li><li>DP CP Book</li></ul>	|	-	|	-	|
-|	Day 3	|	03 Jul (Wed)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>2-3 CF Div2 C Problems</li><li>Graphs CP Book</li></ul>	|	<li>1 Code Sprint(Atcoder)[A,B,C]</li>	|	-	|
+|	Day 3	|	03 Jul (Wed)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>2-3 CF Div2 C Problems</li><li>Graphs CP Book</li></ul>	|	<li>1 Code Sprint(Atcoder 124)[A,B,C]</li>	|	-	|
 |	Day 4	|	04 Jul (Thu)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>2-3 CF Div2 C Problems</li><li>DP CP Book</li></ul>	|	-	|	-	|
 |	Day 5	|	05 Jul (Fri)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>2-3 CF Div2 C Problems</li><li>Weekly Topic</li></ul>		|	-	|	-	|
 |	Day 6	|	06 Jul (Sat)	|	<ul><li>1 Virtual Individual Contest (3-5 hrs)</li></ul>	|	-	|	-	|
