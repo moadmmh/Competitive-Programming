@@ -10,15 +10,15 @@ I will be updaing this page on daily basis with what I have achieved.
 |	Day 3	|	03 Jul (Wed)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>2-3 CF Div2 C Problems</li><li>Graphs CP Book</li></ul>	|	<li>1 Code Sprint(Atcoder 124)[A,B,C]</li><li>2 Graph problems on Kattis [3.8,2.9]</li>	|	<ul><li>abc124_d</li></ul>	|
 |	Day 4	|	04 Jul (Thu)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>2-3 CF Div2 C Problems</li><li>DP CP Book</li></ul>	|	<li>1 Code Sprint(Atcoder 125)[A,B,C]</li><li>2 DP problems on Kattis [3.1,2.1]</li>	|	<ul><li>abc125_d</li></ul>	|
 |	Day 5	|	05 Jul (Fri)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>2-3 CF Div2 C Problems</li><li>Weekly Topic</li></ul>		|	1 Code Sprint(Atcoder 126)[A,B,C,D]	|	<ul><li>abc126_c[upsolved]</li><li>abc126_d[upsolved]</li></ul>	|
-|	Day 6	|	06 Jul (Sat)	|	<ul><li>1 Virtual Individual Contest (3-5 hrs)</li></ul>	|	-	|	-	|
-|	Day 7	|	07 Jul (Sun)	|	<ul><li>1 Virtual Individual Contest (3-5 hrs)</li></ul>	|	-	|	-	|
-|	Day 8	|	08 Jul (Mon)	|	TODO	|	-	|	-	|
-|	Day 9	|	09 Jul (Tue)	|	TODO	|	-	|	-	|
-|	Day 10	|	10 Jul (Wed)	|	TODO	|	-	|	-	|
-|	Day 11	|	11 Jul (Thu)	|	TODO	|	-	|	-	|
-|	Day 12	|	12 Jul (Fri)	|	TODO	|	-	|	-	|
-|	Day 13	|	13 Jul (Sat)	|	TODO	|	-	|	-	|
-|	Day 14	|	14 Jul (Sun)	|	TODO	|	-	|	-	|
+|	Day 6	|	06 Jul (Sat)	|	<ul><li>1 Virtual Individual Contest (3-5 hrs)</li></ul>	|	Upsolved C,D from friday	|	-	|
+|	Day 7	|	07 Jul (Sun)	|	<ul><li>1 Virtual Individual Contest (3-5 hrs)</li></ul>	|	//nothing	|	-	|
+|	Day 8	|	08 Jul (Mon)	|	TODO	|	//nothing	|	-	|
+|	Day 9	|	09 Jul (Tue)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>Graphs CP Book</li></ul>	|	-	|	-	|
+|	Day 10	|	10 Jul (Wed)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>DP CP Book</li></ul>	|	-	|	-	|
+|	Day 11	|	11 Jul (Thu)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>Graphs CP Book</li></ul>	|	-	|	-	|
+|	Day 12	|	12 Jul (Fri)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>DP CP Book</li></ul>	|	-	|	-	|
+|	Day 13	|	13 Jul (Sat)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>Graphs CP Book</li></ul>	|	-	|	-	|
+|	Day 14	|	14 Jul (Sun)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>Ladder C-Div2</li></ul>	|	-	|	-	|
 |	Day 15	|	15 Jul (Mon)	|	TODO	|	-	|	-	|
 |	Day 16	|	16 Jul (Tue)	|	TODO	|	-	|	-	|
 |	Day 17	|	17 Jul (Wed)	|	TODO	|	-	|	-	|
