@@ -13,7 +13,7 @@ I will be updaing this page on daily basis with what I have achieved.
 |	Day 6	|	06 Jul (Sat)	|	<ul><li>1 Virtual Individual Contest (3-5 hrs)</li></ul>	|	Upsolved C,D from friday	|	-	|
 |	Day 7	|	07 Jul (Sun)	|	<ul><li>1 Virtual Individual Contest (3-5 hrs)</li></ul>	|	//nothing	|	-	|
 |	Day 8	|	08 Jul (Mon)	|	TODO	|	//nothing	|	-	|
-|	Day 9	|	09 Jul (Tue)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>Graphs CP Book</li></ul>	|	-	|	-	|
+|	Day 9	|	09 Jul (Tue)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>Graphs CP Book</li></ul>	|	<ul><li>1 Code Sprint(Atcoder 128)[A,B]</li><li>2 Graph Pblms SSSP Kattis</li></ul>	|	<ul><li>abc128_C</li><li>abc128_D</li></ul>	|
 |	Day 10	|	10 Jul (Wed)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>DP CP Book</li></ul>	|	-	|	-	|
 |	Day 11	|	11 Jul (Thu)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>Graphs CP Book</li></ul>	|	-	|	-	|
 |	Day 12	|	12 Jul (Fri)	|	<ul><li>1 Code Sprint(Atcoder)</li><li>DP CP Book</li></ul>	|	-	|	-	|
