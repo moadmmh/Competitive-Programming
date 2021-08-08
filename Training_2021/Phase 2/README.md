@@ -1,0 +1,1 @@
+# Kattis Difficulty (3.0 - 3.9)
